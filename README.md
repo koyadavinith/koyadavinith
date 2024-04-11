@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koyadavinith
 - 👀 I’m interested in Data Science Projects and Roles
-- 🌱 I’m currently working as Data Science Intern at Innomatics Reaserch labs
+- 🌱 I’m currently working as Data Science Intern at Rebid
 - 💞️ I’m looking to collaborate on Data Science Roles
 - 📫 How to reach me vinithkoyada@gmail.com
