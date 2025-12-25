@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @koyadavinith
-- 👀 I’m interested in Data Science Projects and Roles
-- 🌱 I’m currently working as Data Science Intern at Rebid
-- 💞️ I’m looking to collaborate on Data Science Roles
-- 📫 How to reach me vinithkoyada@gmail.com
+- 👀 I’m interested in building GenAI-powered applications, agentic workflows, and real-time AI systems
+- 🌱 I’m currently working as a Python GenAI Developer, focusing on RAG, multi-agent systems, and voice AI
+- 💞️ I’m looking to collaborate on GenAI, applied AI, and intelligent automation projects
+- 📫 How to reach me: vinithkoyada@gmail.com
